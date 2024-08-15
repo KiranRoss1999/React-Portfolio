@@ -1,0 +1,34 @@
+.project {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .project-title {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 1rem 0;
+  }
+  
+  .project-link {
+    display: block;
+    color: #007bff;
+    text-decoration: none;
+    margin: 0.5rem 0;
+  }
+  
+  .project-link:hover {
+    text-decoration: underline;
+  }
+  
